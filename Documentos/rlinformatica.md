@@ -17,4 +17,4 @@ Cada empresa debe elaborar una serie de prevenciones de riesgos laborales obliga
 - Fatiga muscular: Estar mucho tiempo trabajando para la informatica requiere de que nos sentemos horas y horas en una silla, la cual seguramente ni esté comoda, por lo que nos puede generar fatiga muscular
 ![fatigamuscular](/Imagenes/dmgmuscular.jpeg)
 
-[Atrás](README.md)
+[Atrás](/README.md)
