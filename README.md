@@ -1,7 +1,7 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/xicobot/seguridad-en-el-trabajo)
-![GitHub](https://img.shields.io/github/license/xicobot/seguridad-en-el-trabajo)
-![GitHub contributors](https://img.shields.io/github/contributors/xicobot/seguridad-en-el-trabajo)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/xicobot/seguridad-en-el-trabajo)
+![GitHub Repo stars](https://img.shields.io/github/stars/Xicobot/seguridad-en-el-trabajo)
+![GitHub](https://img.shields.io/github/license/Xicobot/seguridad-en-el-trabajo)
+![GitHub contributors](https://img.shields.io/github/contributors/Xicobot/seguridad-en-el-trabajo)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/Xicobot/seguridad-en-el-trabajo)
 # Seguridad-en-el-trabajo
 ## Indice
 1.  [Riesgos laborales](/Documentos/riesgos.md)
