@@ -13,5 +13,6 @@ Cada empresa debe elaborar una serie de prevenciones de riesgos laborales obliga
 - Contacto electrico: hay veces que el personal, por cualquier circustancia toca los cables del ordenador, los desconecta y demás, por lo que podria tener contacto con la electricidad.
 - Incendio: Las empresas o incluso en nuestra casa tenemos la tendencia de usar ladrones para conectar todos los dispositivos, por lo que nos podria pasar que se sobrecargen y prenda el ladron junto a los enchufes provocando un incendio.
 - Fatiga visual: Este es uno de los riesgos mas habituales, ya que nos supone muchas horas de trabajo delante de una pantalla, y sin contar con una iluminacion adecuada puede causar problemas graves a la vista.
+![FatigaVisual](/Imagenes/fatvisual.jpeg)
 - Fatiga muscular: Estar mucho tiempo trabajando para la informatica requiere de que nos sentemos horas y horas en una silla, la cual seguramente ni esté comoda, por lo que nos puede generar fatiga muscular
- ![FatigaVisual](/Imagenes/fatvisual.jpeg)
+![fatigamuscular](/Imagenes/dmgmuscular.jpeg)
