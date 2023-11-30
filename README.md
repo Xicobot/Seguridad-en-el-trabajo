@@ -3,7 +3,7 @@
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/Xicobot/seguridad-en-el-trabajo)
 # Seguridad-en-el-trabajo
 ## Indice
-1.  [Riesgos laborales](/Documentos/riesgos.md)
+1.  [Riesgos laborales](/Documentos/rlinformatica.md)
 2.  [Prevención de riesgos desde un punto de vista informático](/Documentos/prevencion.md)
 
 ## Referencias
