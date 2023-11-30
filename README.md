@@ -9,6 +9,7 @@
 ## Referencias
 1.  Riesgos laborales
   * [EUCA](https://euca.es/seguridad-trabajo/riesgos-laborales-en-sector-de-la-informatica/)
+  * [UNIR](https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/)
 2.  Prevención de riesgos desde un punto de vista informático
   * 
     
