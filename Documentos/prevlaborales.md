@@ -13,10 +13,10 @@ La prevención de riesgos en el trabajo constituye la línea de acción en un me
 
 ### Fatiga Visual
 - **Prevención:** La prevención de la fatiga visual incluye ajustar la iluminación del entorno de trabajo y usar pantallas con ajustes de brillo y contraste adecuados. Tomar descansos regulares y practicar ejercicios oculares puede ayudar a reducir el cansancio visual.
-![fatigavisual2](/Imagenes/fatvisual2.jpeg)
+![fatigavisual2](/Imagenes/fatvisual2.jpg)
 
 ### Fatiga Muscular
 - **Prevención:** Para prevenir la fatiga muscular, es esencial contar con mobiliario ergonómico que promueva una postura correcta. Además, realizar pausas activas, estiramientos y cambiar de posición con regularidad durante la jornada laboral puede ayudar a reducir la fatiga muscular.
-![fatigamuscular2](/Imagenes/dmgmuscular2.jpeg)
+![fatigamuscular2](/Imagenes/dmgmuscular2.jpg)
 
 [Atrás](/README.md)
