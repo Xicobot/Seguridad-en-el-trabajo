@@ -13,7 +13,7 @@
   * [EUCA](https://euca.es/seguridad-trabajo/riesgos-laborales-en-sector-de-la-informatica/)
   * [UNIR](https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/)
 2.  Prevención de riesgos desde un punto de vista informático
-  * 
+  * [Manual de buenas practicas en Oficinas y Despachos - Junta de Andalucía](https://www.talentpoolconsulting.com/wp-content/uploads/2014/06/guia_ergonomia_oficinas.pdf)
     
 ## Autores
 [Adrián Bejarano](https://github.com/Abejalb1504), [Deneb](https://github.com/Xicobot), [Manuel](https://github.com/mmargal28).
