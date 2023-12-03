@@ -6,7 +6,7 @@
 ---
 ## Indice
 1.  [Riesgos laborales](/Documentos/rlinformatica.md)
-2.  [Prevención de riesgos desde un punto de vista informático](/Documentos/prevencion.md)
+2.  [Prevención de riesgos desde un punto de vista informático](/Documentos/prevlaborales.md)
 
 ## Referencias
 1.  Riesgos laborales
